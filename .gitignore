@@ -1,0 +1,14 @@
+# Regenerated on every run
+public/
+bountylint/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets
+.env
+.env.*
+
+.DS_Store
